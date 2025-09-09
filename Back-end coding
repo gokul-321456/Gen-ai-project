@@ -1,0 +1,186 @@
+<unload unload_date="2025-09-09 06:06:34">
+<sys_user action="INSERT_OR_UPDATE">
+<active>true</active>
+<avatar/>
+<building display_value=""/>
+<calendar_integration>1</calendar_integration>
+<city/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<country/>
+<date_format/>
+<default_perspective display_value=""/>
+<department display_value=""/>
+<edu_status>faculty</edu_status>
+<email>girubaharan18@gmail.com</email>
+<employee_number/>
+<enable_multifactor_authn>false</enable_multifactor_authn>
+<failed_attempts/>
+<fax/>
+<federated_id>wMYsoK9kSeXCVP1MBaqd3gGmPGbBtlQ0Z4ha7SyO5Fw=</federated_id>
+<first_name>Girubaharan</first_name>
+<gender/>
+<home_phone/>
+<identity_type>human</identity_type>
+<internal_integration_user>false</internal_integration_user>
+<introduction/>
+<last_login/>
+<last_login_device/>
+<last_login_time/>
+<last_name>S</last_name>
+<last_password/>
+<ldap_server display_value=""/>
+<location display_value=""/>
+<locked_out>false</locked_out>
+<manager display_value=""/>
+<middle_name/>
+<mobile_phone/>
+<name>Girubaharan S</name>
+<notification>2</notification>
+<password_needs_reset>false</password_needs_reset>
+<phone/>
+<photo/>
+<preferred_language/>
+<roles/>
+<schedule display_value=""/>
+<source/>
+<state/>
+<street/>
+<sys_class_name>sys_user</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-29 06:23:50</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>6a876dd383a36210c96f9b80deaad39e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-29 06:23:50</sys_updated_on>
+<time_format/>
+<time_zone/>
+<title/>
+<user_name>Girubaharan</user_name>
+<user_password/>
+<vip>false</vip>
+<web_service_access_only>false</web_service_access_only>
+<zip/>
+</sys_user>
+</unload>
+<unload unload_date="2025-09-09 06:09:00">
+<sys_user_group action="INSERT_OR_UPDATE">
+<active>true</active>
+<cost_center display_value=""/>
+<default_assignee display_value=""/>
+<description/>
+<email/>
+<exclude_manager>false</exclude_manager>
+<include_members>false</include_members>
+<manager display_value="Girubaharan S">6a876dd383a36210c96f9b80deaad39e</manager>
+<name>platform</name>
+<parent display_value=""/>
+<roles/>
+<source/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-29 06:43:10</sys_created_on>
+<sys_id>423ca15f83a36210c96f9b80deaad330</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-29 06:43:10</sys_updated_on>
+<type/>
+</sys_user_group>
+</unload>
+<unload unload_date="2025-09-09 06:20:57">
+<sys_user_role action="INSERT_OR_UPDATE">
+<assignable_by display_value=""/>
+<can_delegate>true</can_delegate>
+<description>can deal with platform relation issues</description>
+<elevated_privilege>false</elevated_privilege>
+<grantable>true</grantable>
+<includes_roles/>
+<name>platform_role</name>
+<scoped_admin>false</scoped_admin>
+<suffix/>
+<sys_class_name>sys_user_role</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-29 06:47:07</sys_created_on>
+<sys_id>901d2ddf83a36210c96f9b80deaad370</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>platform_role</sys_name>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sys_user_role_901d2ddf83a36210c96f9b80deaad370</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-29 06:47:07</sys_updated_on>
+</sys_user_role>
+</unload>
+<unload unload_date="2025-09-09 06:26:11">
+<sys_db_object action="INSERT_OR_UPDATE">
+<access>public</access>
+<actions_access>false</actions_access>
+<alter_access>false</alter_access>
+<caller_access/>
+<client_scripts_access>false</client_scripts_access>
+<configuration_access>false</configuration_access>
+<create_access>false</create_access>
+<create_access_controls>true</create_access_controls>
+<delete_access>false</delete_access>
+<extension_model/>
+<filter_extension/>
+<is_df_table>false</is_df_table>
+<is_extendable>false</is_extendable>
+<label>Operations Related</label>
+<live_feed_enabled>false</live_feed_enabled>
+<name>u_operations_related</name>
+<number_ref display_value=""/>
+<read_access>true</read_access>
+<scriptable_table>false</scriptable_table>
+<super_class display_value=""/>
+<sys_class_code/>
+<sys_class_name>sys_db_object</sys_class_name>
+<sys_class_path/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-09-03 03:00:53</sys_created_on>
+<sys_id>6c8766b883332210c96f9b80deaad3d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Operations related</sys_name>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sys_db_object_6c8766b883332210c96f9b80deaad3d1</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-09-03 03:00:53</sys_updated_on>
+<update_access>false</update_access>
+<user_role display_value="u_operations_related_user" name="u_operations_related_user">a359a6b883332210c96f9b80deaad38f</user_role>
+<ws_access>true</ws_access>
+</sys_db_object>
+</unload>
+<unload unload_date="2025-09-09 06:47:42">
+<sys_security_acl action="INSERT_OR_UPDATE">
+<active>true</active>
+<admin_overrides>true</admin_overrides>
+<advanced>false</advanced>
+<applies_to table="u_operations_related"/>
+<condition table="u_operations_related"/>
+<controlled_by_refs/>
+<decision_type>allow</decision_type>
+<description>Default access control on u_operations_related</description>
+<local_or_existing>Local</local_or_existing>
+<name>u_operations_related</name>
+<operation display_value="write">write</operation>
+<script/>
+<security_attribute display_value=""/>
+<sys_class_name>sys_security_acl</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-09-03 03:00:54</sys_created_on>
+<sys_id>4469ea3c83332210c96f9b80deaad358</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>u_operations_related</sys_name>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sys_security_acl_4469ea3c83332210c96f9b80deaad358</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-09-03 03:00:54</sys_updated_on>
+<type display_value="record">record</type>
+</sys_security_acl>
+</unload>
